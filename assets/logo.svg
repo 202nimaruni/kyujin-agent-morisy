@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="56" viewBox="0 0 220 56" fill="none">
+  <rect x="0" y="8" width="40" height="40" rx="12" fill="#2563EB"/>
+  <path d="M12 32V24h6c3.3 0 5 1.7 5 4s-1.7 4-5 4h-6zm6-3c1.1 0 1.7-.5 1.7-1.3S19.1 26 18 26h-3v3h3zM26 32V24h8v3h-5v2h4v3h-4z" fill="white"/>
+  <text x="52" y="26" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#0F172A">вкЈь</text>
+  <text x="52" y="44" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#64748B">BЇ\®ьЄІу»</text>
+</svg>
